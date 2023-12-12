@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DispatchedBCRP
+- 👀 I’m interested in the LUA coding language and creating resources under the Cfx.re projects!
+- 🌱 I’m currently working on Bear Creek Roleplay on RedM as a developer!
+- 📫 You can reach me on Discord @ dispatchedttv
